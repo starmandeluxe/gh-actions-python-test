@@ -1,4 +1,5 @@
 def _find_fib_iterative(x: int) -> int:
+    # Fibonacci runner
     # 0, 1, 1, 2, 3, 5, 8, 13...
 
     base = 1
